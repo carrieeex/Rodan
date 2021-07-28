@@ -13,7 +13,6 @@ rodan/static/Rodan
 rodan/jobs/diva_wrapper/
 rodan/jobs/vis_rodan/
 rodan/jobs/diagonal_neume_slicing/
-rodan/jobs/heuristic_pitch_finding/
 rodan/jobs/neon_wrapper/
 rodan/jobs/MEI_encoding
 rodan/jobs/biollante_rodan
