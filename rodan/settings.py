@@ -151,7 +151,6 @@ RODAN_PYTHON2_JOBS = [
     #py2 "rodan.jobs.vis_rodan",
     #py2 "rodan.jobs.biollante_rodan",
     #py2 "rodan.jobs.MEI_resizing",
-    #py2 "rodan.jobs.test_rodan"
 ]
 RODAN_PYTHON3_JOBS = [
     #py3 "rodan.jobs.helloworld",
